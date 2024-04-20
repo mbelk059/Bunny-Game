@@ -6,8 +6,8 @@
   "name":"obj_pauser",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tutorial",
+    "path":"folders/Objects/tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

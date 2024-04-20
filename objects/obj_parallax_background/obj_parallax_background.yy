@@ -9,8 +9,8 @@
   "name":"obj_parallax_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tutorial",
+    "path":"folders/Objects/tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

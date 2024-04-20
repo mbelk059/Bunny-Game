@@ -1,3 +1,8 @@
+// Check for collision with obj_cutscene_trigger and spacebar press
+if (place_meeting(x, y, obj_activate_cutscene.object_index) && keyboard_check_pressed(vk_space)) {
+    sequence_start(seq_test_sequence);
+}
+
 right_key = keyboard_check(vk_right);
 left_key = keyboard_check(vk_left);
 up_key = keyboard_check(vk_up);

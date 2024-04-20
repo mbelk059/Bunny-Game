@@ -8,8 +8,8 @@
   "name":"obj_bed",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tutorial",
+    "path":"folders/Objects/tutorial.yy",
   },
   "parentObjectId":{
     "name":"obj_wall",

@@ -8,8 +8,8 @@
   "name":"obj_dresser_big",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tutorial",
+    "path":"folders/Objects/tutorial.yy",
   },
   "parentObjectId":{
     "name":"obj_wall",

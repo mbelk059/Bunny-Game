@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":160,
+  "height":250,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"1a1383ea-3b5d-493b-9d55-12237f7f2928","blendMode":0,"displayName":"default","isLocked":false,"name":"1a1383ea-3b5d-493b-9d55-12237f7f2928","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"tutorial",
+    "path":"folders/Sprites/tutorial.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
