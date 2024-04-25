@@ -78,17 +78,17 @@ function scr_text(_text) {
         switch(argument[1]) {
             case "cat":
                 speaker_sprite[page_number] = spr_cat_spk;
-                txtb_spr[page_number] = spr_textbox_grey;
+                txtb_spr[page_number] = spr_textbox;
                 break;
             
             case "cat annoyed":
                 speaker_sprite[page_number] = spr_cat_spkr_annoyed;
-                txtb_spr[page_number] = spr_textbox_grey;
+                txtb_spr[page_number] = spr_textbox;
                 break;
             
             case "mayor":
                 speaker_sprite[page_number] = spr_mayor_spk;
-                txtb_spr[page_number] = spr_textbox_grey;
+                txtb_spr[page_number] = spr_textbox;
                 break;
         }
     }

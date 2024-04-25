@@ -12,3 +12,8 @@ face = DOWN;
 
 global.interact_speakblock = false;
 global.active_textbox = noone;
+
+current_sprite = sprite_index;
+
+global.main_state = e_main.ready;
+global.story_val = 0;

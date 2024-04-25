@@ -1,5 +1,5 @@
-enum e_main{ready, cutscene};
-enum e_cutscene{idle, init, play};
+enum e_main {ready, cutscene};
+enum e_cutscene {idle, init, play};
 
 state = e_cutscene.idle;
 
@@ -14,4 +14,8 @@ for(var yy = 0; yy <= 2; yy ++) {
 	}
 }
 
-cutscenes[0][rm_cutscene_test] = rm_cutscene_test;
+cutscenes[0][rm_start2] = seq_test4;
+cutscenes[1][rm_start2] = seq_test3;
+
+actor_objects[0] = obj_bunny;
+actor_objects[1] = obj_cute_cat;

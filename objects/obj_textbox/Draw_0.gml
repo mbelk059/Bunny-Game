@@ -29,7 +29,8 @@ if setup == false {
 			}
 			// no character aka center the textbox in screen
 			if speaker_sprite[p] == noone {
-				text_x_offset[p] = 44;
+				text_x_offset[p] = (camera_get_view_width(view_camera[0]) - textbox_width) / 2;
+				portrait_x_offset[p] = (camera_get_view_width(view_camera[0]) - sprite_width) / 2; // Assuming sprite_width is the width of the textbox sprite
 			}
 		
 		//setting individ chars and finding where the lines of text should break

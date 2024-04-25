@@ -1,7 +1,7 @@
 {
   "$GMRoom":"",
   "%Name":"rm_text_dialogue_system",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_text_dialogue_system/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
