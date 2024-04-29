@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"spr_livingroom_small_table",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":21,
-  "bbox_left":0,
-  "bbox_right":19,
+  "bbox_left":1,
+  "bbox_right":18,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,

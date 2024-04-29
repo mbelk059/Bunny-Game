@@ -14,8 +14,10 @@ for(var yy = 0; yy <= 2; yy ++) {
 	}
 }
 
-cutscenes[0][rm_start2] = seq_test4;
-cutscenes[1][rm_start2] = seq_test3;
+cutscenes[0][rm_hallway] = seq_mayor_calls_about_mission;	
+cutscenes[1][rm_level3] = -1;
+cutscenes[2][rm_start2] = seq_test4;
+cutscenes[3][rm_start2] = seq_test3;		
 
 actor_objects[0] = obj_bunny;
 actor_objects[1] = obj_cute_cat;

@@ -23,6 +23,11 @@ switch(_text_id) {
 	    scr_text("lol", "mayor");
 	    scr_text("this is awkward...", "mayor");
 	    break;
+		
+	
+	case "home phone":
+		scr_text("hello hello this is the mayor i come to u with urgent news.", "mayor");
+		break;
 
 
 

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_livingroom_phone",
+  "%Name":"obj_home_phone",
   "eventList":[],
   "managed":true,
-  "name":"obj_livingroom_phone",
+  "name":"obj_home_phone",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite41",
-    "path":"sprites/Sprite41/Sprite41.yy",
+    "name":"spr_hone_phone",
+    "path":"sprites/spr_hone_phone/spr_hone_phone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

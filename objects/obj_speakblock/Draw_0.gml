@@ -1,1 +1,1 @@
-draw_circle(x, y, 35, false);
+// draw_circle(x, y, 35, false);

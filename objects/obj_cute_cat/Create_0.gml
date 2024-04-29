@@ -17,3 +17,6 @@ current_sprite = sprite_index;
 
 global.main_state = e_main.ready;
 global.story_val = 0;
+
+// Create Event of obj_cute_cat
+global.cutscene_triggered = false;
